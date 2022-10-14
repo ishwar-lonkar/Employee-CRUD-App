@@ -3,6 +3,7 @@ package com.management.entity;
 
 import javax.persistence.*;
 
+
 @Entity
 @Table(name = "employee")
 public class Employee {
